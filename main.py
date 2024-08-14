@@ -1,3 +1,11 @@
+"""
+Author: Sai Likhith Karri
+Description: Utilized The Blue Alliance API To Get A List Of 
+Teams Present During A Specific FRC Match & Event, Alongside
+Several Other Functionalities. 
+
+"""
+
 import requests
 
 # My API Key
